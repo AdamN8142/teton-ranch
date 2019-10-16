@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.App {
+  text-align: center; 
+  background-image:url("https://bjgnapvxtx-flywheel.netdna-ssl.com/wp-content/uploads/2017/07/Longhorn-e1551637794764.jpg");
+  height: 100vh;
+  background-size: contain;
+  background-repeat: no-repeat
+
+}
+
